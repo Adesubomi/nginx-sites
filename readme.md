@@ -5,6 +5,7 @@ Create and manage your virtual hosts/nginx server blocks from your command line
 
 
 ## Usage
+**NOTE: RUN COMMANDS IN THE ROOT DIRECTORY OF YOUR SITE/PROJECT**
 - `mksite` :: Create a new server block/vhost in `pwd`(present working directory)
 - `rmsite` :: Removes the server block/vhost identified by the pwd
 
